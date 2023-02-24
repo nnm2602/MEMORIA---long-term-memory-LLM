@@ -18,8 +18,7 @@ pip install -r requirements.txt
 
 ```
 
-Since this program uses the chatgpt python wrapper, you have to do log into your openai account to start. Click [here](https://link-url-here.org) for more information
-on how to set it up.
+Since this program uses the chatgpt python wrapper, you have to log into your openai account to start. Click [here](https://link-url-here.org) for more information on how to set it up.
 
 First, open up your terminal and type in the following 
 
@@ -34,8 +33,7 @@ chatgpt
 ```
 And ask it a few question to make sure everything is up and running. 
 
-After logging in, you can exit the website and interact with the program in a 
-main.py file like below.
+After logging in, you can exit the website and interact with the program in a main.py file like below.
 
 ### Using the system
 

@@ -49,4 +49,4 @@ print(bot.get_answer(question))
 
 The answer to the question will be logged in the folder "answers". It will takes a little while, around 5 minutes for the program to find the answer, this is due to the fact that there's a bottle neck on the LLM output, making search excruciatingly slow. 
 
-####DUE TO UNFORSEEN CIRCUMSTANCES, THE PROJECT IS NOW ONLY LIMITED TO INTERACTING WITH THE ALREADY BUILT IN "PSYCHOLOGY" BOT. DOCUMENT PARSING FEATURE WILL BE ADDED SOON FOR CUSTOMIZABLE EXPERT SYSTEM. 
+#### DUE TO UNFORSEEN CIRCUMSTANCES, THE PROJECT IS NOW ONLY LIMITED TO INTERACTING WITH THE ALREADY BUILT IN "PSYCHOLOGY" BOT. DOCUMENT PARSING FEATURE WILL BE ADDED SOON FOR CUSTOMIZABLE EXPERT SYSTEM. 

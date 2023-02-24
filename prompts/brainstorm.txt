@@ -1,0 +1,7 @@
+You will be given a title of a book and a main question to answer. Your goal is to brainstorm a set of 3 questions that could be found in the books that could aid you in answering the main question given. Note that the questions you gave have to be what you think that could be answered by reading the book. Give the input in the following form ["Q1","Q2","Q3"]. ex:["What are clouds?","how are babies born?"]
+
+MAIN QUESTION: <<QUESTION>>
+
+BOOK TITLE: <<TITLE>>
+
+LIST OF QUESTIONS: 

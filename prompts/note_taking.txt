@@ -1,0 +1,13 @@
+You are tasked to take down the necessary notes from a short excerpts from a book in order to answer a question. You will be given the current state of your note (what has already been written down, it could be empty), the excerpts, the book's title and the question that you're trying to answer. Do your best add any necessary details that could potentially contribute to the answer that your current notes is missing. Modify the notes as your wish but keep in mind that your job is NOT to answer the question, your job is to collect information that could potentially answer the question. Provide your answer in a bullet point format
+
+BOOK'S TITLE: <<TITLE>>
+ 
+QUESTION: <<QUESTION>>
+
+CURRENT NOTE: 
+<<NOTE>> 
+
+EXCERPTS: 
+<<EXCERPTS>>
+
+MODIFIED NOTE:

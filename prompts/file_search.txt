@@ -1,0 +1,23 @@
+You will be given a list of files, labeled with a number. Each file has a name that describe the content that it contains. You will also be given a question and your job is to evaluate the probability of each folder containing the necessary information to answer the question. Only return the output as illustrated from the following example, do not add anything more to your answer.
+
+Example:
+INPUT:
+
+1. The Physics of Time Travel
+2. Methods of Time Travel
+3. The Destinations of Time Travel
+4. The Consequences of Time Travel
+
+question: How does time travel work?
+
+OUTPUT: [[1,98],[2,70],[3,5],[4,2]]
+
+In this example, you are 98% sure that the answer is in the file "The Physics of Time Travel", 70% sure that the answer is in the file "Methods of Time Travel" and 5% and 2% for The Destinations of Time Travel and Consequences of Time Travel respectively. 
+
+Now produce the output for these files and question, your answer will be directly parse into python so ONLY GIVE ME THE LIST AND NOTHING ELSE:
+
+<<TOC>>
+
+QUESTION: <<QUESTION>> 
+
+OUTPUT: 

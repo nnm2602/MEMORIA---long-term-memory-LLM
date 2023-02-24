@@ -1,0 +1,11 @@
+You are tasked with providing the answer to the folowing question based on the information that was noted down from the book titled <<TITLE>>. You will be given an existing answer (could be empty) and you have to improve upon it with the information that you've learned from your notes. Provide your answer in the most verbose and detailed way possible. 
+
+QUESTION: <<QUESTION>>
+
+PREVIOUS ANSWER: 
+<<PREVIOUS ANSWER>>
+
+YOUR NOTE: 
+<<NOTE>>
+
+ANSWER: 

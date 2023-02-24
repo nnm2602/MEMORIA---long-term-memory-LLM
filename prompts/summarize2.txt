@@ -1,0 +1,1 @@
+summarize the following piece of text, ideally it shold be pretty short (1-2 sentences) and it should cover the generally topic and idea of the paragraph, nothing too specific. 

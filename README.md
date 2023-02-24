@@ -37,6 +37,7 @@ And ask it a few question to make sure everything is up and running.
 After logging in, you can exit the website and interact with the program in a 
 main.py file like below.
 
+### Using the system
 
 ```python
 import knowledge_tree_parsing as bot
@@ -46,8 +47,6 @@ print(bot.get_answer(question))
 
 ```
 
-The answer to the question will be logged in the folder "answers". It will takes a little while, around 5 minutes for the program to find the answer, this
-is due to the fact that there's a bottle neck on the LLM output, making search excruciatingly slow. 
+The answer to the question will be logged in the folder "answers". It will takes a little while, around 5 minutes for the program to find the answer, this is due to the fact that there's a bottle neck on the LLM output, making search excruciatingly slow. 
 
-[^1]: DUE TO UNFORSEEN CIRCUMSTANCES, THE PROJECT IS NOW ONLY LIMITED TO INTERACTING WITH THE ALREADY BUILT IN "PSYCHOLOGY" BOT. DOCUMENT PARSING FEATURE WILL BE
-ADDED SOON FOR CUSTOMIZABLE EXPERT SYSTEM. 
+####DUE TO UNFORSEEN CIRCUMSTANCES, THE PROJECT IS NOW ONLY LIMITED TO INTERACTING WITH THE ALREADY BUILT IN "PSYCHOLOGY" BOT. DOCUMENT PARSING FEATURE WILL BE ADDED SOON FOR CUSTOMIZABLE EXPERT SYSTEM. 
